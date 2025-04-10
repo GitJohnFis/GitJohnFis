@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a JavaScript text-based RPG game with a reputation system and a revive function that lets you replay the game with zero resources but a lot of experience. I also want to include a few more easter eggs that can only be seen when nearly dying and straying from the objective of the game, as well as winning and defeating the final boss.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: **The Minecraft Movie** is not as bad as the 1st trailer... it's phenomanally worse!
+- ⚡ Fun fact: **The Minecraft Movie** is not as bad as the 1st trailer... it's phenomanally worse! 10/04/2024 
 
 <!---
 GitJohnFis/GitJohnFis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
