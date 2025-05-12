@@ -6,6 +6,23 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **The Minecraft Movie** is not as bad as the 1st trailer... it's phenomanally worse! 10/04/2024 
 
+New profile photo:
+```
+
+      °              _                    _               ° 
+               .´/: : :/:`;      ,·~:-·´::/:`:;_.-~^*/'^;  
+              /:/:_: /:::'i     /::::::_:/::::::::::::/:::'i  
+             /·´     '`;:::;'  /·~-·´     `:;_,:·-~^*'`^:;  
+             i         'i::;  'i                            i/  
+             ';        'i::;°  `·,                     ,.·´    
+    ,. -.,   ';        ';::;      `;         ,-·~:^*'´/;      
+   /:::::/`:.,;       ';::;'       ';        ;-· ~·-;/:/'      
+  /;:-:;/:::::'|       ;:/`;‘      ';       ,.,      ,'/        
+,´      `·:;:·'       ;/'::/        ;      ';:/`'*'*´           
+';                     `;/'         ';     ;/'                  
+  '`·,           _,.-·'´ °          \    /                    
+       '`'*^*'´¯    ”                 `'´             '        
+```
 <!---
 GitJohnFis/GitJohnFis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
